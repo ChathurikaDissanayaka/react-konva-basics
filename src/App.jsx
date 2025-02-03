@@ -1,6 +1,7 @@
 // import MultipleShapes from "./components/MultipleShapes";
 // import RectComponent from "./components/RectComponent";
-import Hover from "./components/Hover";
+// import Hover from "./components/Hover";
+import GroupComponent from "./components/GroupComponent";
 import "./index.css";
 
 function App() {
@@ -8,7 +9,8 @@ function App() {
     <>
       {/* <RectComponent /> */}
       {/* <MultipleShapes /> */}
-      <Hover />
+      {/* <Hover /> */}
+      <GroupComponent />
     </>
   );
 }

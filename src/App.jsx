@@ -1,9 +1,12 @@
+// import MultipleShapes from "./components/MultipleShapes";
+// import RectComponent from "./components/RectComponent";
 import "./index.css";
-import RectComponent from "./components/RectComponent";
+
 function App() {
   return (
     <>
-      <RectComponent />
+      {/* <RectComponent /> */}
+      {/* <MultipleShapes /> */}
     </>
   );
 }
